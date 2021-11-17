@@ -1,0 +1,4 @@
+Indicaciones generales de proyecto de fin de curso
+Froma grupos de 3 personas
+Plantee el desarrollo de un proyecto web den donde se haga uso de git
+Texto
